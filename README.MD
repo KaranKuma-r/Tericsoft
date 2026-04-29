@@ -4,7 +4,7 @@ This is a small React project where I fetch user data from a public API and disp
 
 ## Features
 
-- Fetch data from API
+- Fetch data from API.
 - Show users in cards
 - Error handling
 - Responsive design (mobile, tablet and desktop)
